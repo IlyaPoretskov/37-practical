@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TVRemoteControl.dir/objects.a
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\TVRemoteControl.dir/objects.a @CMakeFiles\TVRemoteControl.dir\objects1.rsp
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\TVRemoteControl.dir/objects.a -Wl,--no-whole-archive -o TVRemoteControl.exe -Wl,--out-implib,libTVRemoteControl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TVRemoteControl.dir\linkLibs.rsp
