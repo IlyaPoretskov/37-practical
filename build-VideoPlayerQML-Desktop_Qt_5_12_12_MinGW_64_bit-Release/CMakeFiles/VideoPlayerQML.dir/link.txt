@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\VideoPlayerQML.dir/objects.a
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\VideoPlayerQML.dir/objects.a @CMakeFiles\VideoPlayerQML.dir\objects1.rsp
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\VideoPlayerQML.dir/objects.a -Wl,--no-whole-archive -o VideoPlayerQML.exe -Wl,--out-implib,libVideoPlayerQML.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\VideoPlayerQML.dir\linkLibs.rsp

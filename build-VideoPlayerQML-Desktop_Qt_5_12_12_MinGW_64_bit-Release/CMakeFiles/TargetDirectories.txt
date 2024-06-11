@@ -1,0 +1,4 @@
+C:/Skb30-40/37-practical/build-VideoPlayerQML-Desktop_Qt_5_12_12_MinGW_64_bit-Release/CMakeFiles/VideoPlayerQML.dir
+C:/Skb30-40/37-practical/build-VideoPlayerQML-Desktop_Qt_5_12_12_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Skb30-40/37-practical/build-VideoPlayerQML-Desktop_Qt_5_12_12_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Skb30-40/37-practical/build-VideoPlayerQML-Desktop_Qt_5_12_12_MinGW_64_bit-Release/CMakeFiles/VideoPlayerQML_autogen.dir
